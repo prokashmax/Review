@@ -1,0 +1,23 @@
+{
+  "name": "nature-home",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass/bass/main.scss sass/bass/main.css",
+    "start": "main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "prokash",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "node-sass": "^4.13.0"
+  }
+}
