@@ -18,6 +18,6 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
